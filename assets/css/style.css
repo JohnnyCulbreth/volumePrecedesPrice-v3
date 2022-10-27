@@ -586,6 +586,10 @@ section {
   transition: 0.5s;
 }
 
+#about .about-content h1 span {
+  color: #5D67B3;
+}
+
 /* Services Section
 --------------------------------*/
 #services {
