@@ -62,7 +62,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #39c0e7;
+  background: #8993e0;
   color: #fff;
 }
 
@@ -630,7 +630,7 @@ section {
 }
 
 #services .box:hover .title a {
-  color: #1bb1dc;
+  color: #5E67B3;
 }
 
 #services .description {
@@ -841,7 +841,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #1bb1dc;
+  color: #5E67B3;
 }
 
 #footer .footer-top .footer-contact {
